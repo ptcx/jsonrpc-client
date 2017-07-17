@@ -2,6 +2,7 @@
     "name": "ptcx/jsonrpc-client",
     "description": "php jsonrpc client for golang jsonrpc server",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "ptcx",
@@ -13,5 +14,5 @@
     },
     "autoload": {
         "psr-4": {"JRClient\\": "src/"}
-    },
+    }
 }
